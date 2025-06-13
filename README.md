@@ -192,7 +192,3 @@ This project successfully transformed bike sharing demand prediction from a basi
 The solution provides a robust foundation for operational excellence and positions the organization for data-driven growth in the competitive bike sharing market.
 
 ---
-
-**Project Repository**: [GitHub Repository Link]  
-**Contact**: Precious Adekwu | precious.adekwu@company.com  
-**Last Updated**: June 2025
